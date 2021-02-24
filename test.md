@@ -36,13 +36,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **Project**
   - create a new Icon XXXIcon ([ea372e8](https://github.com/Future-FE-Temp/yufu-design/commit/ea372e8ed7450222b7d9899f719dd6253fd167f8))
 
-### **`📖 Documentation`**
+### **`📖 Document`**
 
 - add Button Document ([e06e094](https://github.com/Future-FE-Temp/yufu-design/commit/e06e0947290ff8ec77bb44aeb56aa2696058d745))
 
 ### **`👽 Other Effect`**
-
-#### `📖 Documentation`
 
 - **_[Readme]_** update Readme.md file ([e44173e](https://github.com/Future-FE-Temp/yufu-design/commit/e44173e191ea62dfe0fc45ebf00cee55f14bd33d))
 
