@@ -13,14 +13,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 #### `✨ Features`
 
-- **FuncComMemo**
+- ***FuncComMemo***
   - adds the component to the mobile terminal adaptation ([292c590](https://github.com/Future-FE-Temp/yufu-design/commit/292c590edc5eeef86248a32e7023872321549eec)), closes [#88](https://github.com/Future-FE-Temp/yufu-design/issues/88)
 
 #### `🐛 Bug Fixes`
 
-- **Alert**
+- ***Alert***
   - fixed an issue with incorrect color display ([306a936](https://github.com/Future-FE-Temp/yufu-design/commit/306a936bdf8b77cb573ad02df20d7c2a200eeef4)), closes [#34](https://github.com/Future-FE-Temp/yufu-design/issues/34)
-- **Button**
+- ***Button***
   - mobile clicks don't work ([c74fa54](https://github.com/Future-FE-Temp/yufu-design/commit/c74fa54a2e415360f5226b7786d868563181e425))
   - text overflow problem fixed ([8866378](https://github.com/Future-FE-Temp/yufu-design/commit/88663780bbf0798095f37f27ced0dd55a7c90822)), closes [#12](https://github.com/Future-FE-Temp/yufu-design/issues/12)
 
