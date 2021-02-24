@@ -26,14 +26,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 #### `🔨 Code Refactoring`
 
-- **FuncCom**
+- ***FuncCom***
   - refactor component implementations to improve UI presentation ([db104b2](https://github.com/Future-FE-Temp/yufu-design/commit/db104b2e7876ec3831efdce6b8f314e8bb158836))
+
 
 ### **`@yffed/icons`**
 
 #### `✨ Features`
 
-- **Project**
+- ***Project***
   - create a new Icon XXXIcon ([ea372e8](https://github.com/Future-FE-Temp/yufu-design/commit/ea372e8ed7450222b7d9899f719dd6253fd167f8))
 
 ### **`📖 Document`**
