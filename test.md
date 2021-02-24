@@ -9,7 +9,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [4.0.0](https://github.com/Future-FE-Temp/yufu-design/compare/v3.1.2...v4.0.0) _(2021-02-08)_
 
-### **@yffed/core**
+### **`@yffed/core`**
 
 #### `✨ Features`
 
