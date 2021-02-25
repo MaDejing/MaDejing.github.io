@@ -9,7 +9,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [4.0.0](https://github.com/Future-FE-Temp/yufu-design/compare/v3.1.2...v4.0.0) _(2021-02-08)_
 
-### **`@yffed/core`**
+### ***`@yffed/core`***
 
 #### `✨ Features`
 
@@ -32,12 +32,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### `@yffed/icons`
 
-#### **`✨ Features`**
+#### ***`✨ Features`***
 
 - ***Project***
   - create a new Icon XXXIcon ([ea372e8](https://github.com/Future-FE-Temp/yufu-design/commit/ea372e8ed7450222b7d9899f719dd6253fd167f8))
 
-#### **`🐛 Bug Fixes`**
+#### ***`🐛 Bug Fixes`***
 
 - ***Alert***
   - fixed an issue with incorrect color display ([306a936](https://github.com/Future-FE-Temp/yufu-design/commit/306a936bdf8b77cb573ad02df20d7c2a200eeef4)), closes [#34](https://github.com/Future-FE-Temp/yufu-design/issues/34)
